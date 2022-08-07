@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.it.dto.RoleDto"><rhs name\="com.it.dto.RoleDto"/></lhs><lhs name\="com.it.dto.StadiumDto"><rhs name\="com.it.dto.StadiumDto"/></lhs><lhs name\="com.it.dto.UserdetailDto"><rhs name\="com.it.dto.UserdetailDto"/></lhs><lhs name\="com.it.dto.BankDto"><rhs name\="com.it.dto.BankDto"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="com.it.dto.BookingDto"><rhs name\="com.it.dto.BookingDto"/></lhs><lhs name\="com.it.dto.PaymentsDto"><rhs name\="com.it.dto.PaymentsDto"/></lhs></history>
+content_assist_number_of_computers=16
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
