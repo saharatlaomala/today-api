@@ -8,4 +8,5 @@ import com.it.entity.UserdetailEntity;
 @Repository
 public interface UserdetailRepository extends JpaRepository<UserdetailEntity, Integer>{
 
+	public UserdetailEntity findByUserdtUsername(String username);
 }

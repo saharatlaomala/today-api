@@ -39,8 +39,8 @@ public class UserdetailEntity implements Serializable{
 	 @Column(name = "userdt_id")
 	private Integer userdtId;
 	
-	@Column(name = "userdt_usernae")
-	private String userdtUsernae;
+	@Column(name = "userdt_username")
+	private String userdtUsername;
 	
 	@Column(name = "userdt_password")
 	private String userdtPassword;

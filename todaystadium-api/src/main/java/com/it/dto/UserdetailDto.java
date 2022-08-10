@@ -12,7 +12,7 @@ public class UserdetailDto implements Serializable{
 	 */
 	private static final long serialVersionUID = -9008780183016930456L;
 		private Integer userdtId;
-		private String userdtUsernae;
+		private String userdtUsername;
 		private String userdtPassword;
 		private String userdtTitle;
 		private String userdtFirstname;
